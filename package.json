@@ -4,6 +4,7 @@
   "description": "```bash\r # try it out using\r node example.js\r ```",
   "main": "example.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,8 @@
   "homepage": "https://github.com/ta-19e/kordamine#readme",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^8.0.1"
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2"
   }
 }
