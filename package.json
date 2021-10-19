@@ -1,0 +1,19 @@
+{
+  "name": "kordamine",
+  "version": "1.0.0",
+  "description": "```bash\r # try it out using\r node example.js\r ```",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ta-19e/kordamine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ta-19e/kordamine/issues"
+  },
+  "homepage": "https://github.com/ta-19e/kordamine#readme"
+}
