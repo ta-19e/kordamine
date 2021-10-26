@@ -24,6 +24,7 @@
                 "FunctionExpression": false
             }
         }],
-        "quotes": ["error", "double"]
+        "quotes": ["error", "double"],
+        "linebreak-style": "off"
     }
 }
