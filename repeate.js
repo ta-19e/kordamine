@@ -2,8 +2,9 @@
  * Returns a String value that is made from count copies appended together. If count is 0,
  * the empty string is returned.
  *
- * @param str   string to repeate
- * @param count number of copies to append
+ * @param {string} str   string to repeate
+ * @param {int} count number of copies to append
+ * @returns {string}
  */
 function repeate(str, count) {
   if (Number.isNaN(+count)) {

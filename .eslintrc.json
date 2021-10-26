@@ -11,6 +11,9 @@
         
     },
     "rules": {
+        "valid-jsdoc":["error", {
+            "requireReturnDescription": false
+        }], 
         "require-jsdoc": ["error", {
             "require": {
                 "FunctionDeclaration": true,
