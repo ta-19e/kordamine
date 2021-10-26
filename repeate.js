@@ -8,7 +8,7 @@
  */
 function repeate(str, count) {
   if (Number.isNaN(+count)) {
-    throw new Error('count argument is not a number');
+    throw new Error("count argument is not a number");
   }
 
   return String(str).repeat(count);
