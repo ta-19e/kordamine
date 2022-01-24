@@ -1,6 +1,6 @@
 /**
  * Returns a String value that is made from count copies appended together. If count is 0,
- * the empty string is returned.
+ * the empty String is returned.
  *
  * @param {string} str   string to repeate
  * @param {int} count number of copies to append
