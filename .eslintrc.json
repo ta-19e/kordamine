@@ -11,6 +11,7 @@
     "parserOptions": {
         
     },
+        
     "rules": {
         "valid-jsdoc":["error", {
             "requireReturnDescription": false
